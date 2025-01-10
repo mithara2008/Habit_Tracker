@@ -19,4 +19,5 @@ This app aims to empower users to achieve their goals by creating a visually app
 
 🔥Check Out The Prototype: https://www.figma.com/proto/W3GxFHw0s0b9YkWXl4Ue6T/Habit-Tracker?page-id=0%3A1&node-id=26-74&viewport=8392%2C722%2C0.22&t=N97GyrY0Kmf833eB-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=72%3A225
 
-<img width="839" alt="HabitTracker" src="https://github.com/user-attachments/assets/87650624-e65a-42db-a90e-7193f8385b60" />
+
+<img width="818" alt="HabitTracker" src="https://github.com/user-attachments/assets/09874b9f-5182-453a-80b6-9eb3f1a6ce4c" />
