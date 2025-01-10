@@ -4,7 +4,7 @@
 The Habit Tracker app is designed to help users build and maintain positive habits in their daily lives. The primary objective of the app is to provide a simple, engaging, and user-friendly interface that encourages consistency and self-improvement. With a clean design and intuitive navigation, the app allows users to add, manage, and track their habits effortlessly.
 
 **Key Features:**
-1. **Add a Habit:** Users can create habits by filling out a simple form, specifying details like the habit name, frequency (daily, weekly, etc.), reminders, and a brief description.
+☘ **Add a Habit:** Users can create habits by filling out a simple form, specifying details like the habit name, frequency (daily, weekly, etc.), reminders, and a brief description.
 2. **Habit List:** A well-organized list displays all active habits with visual elements like progress bars, icons, and status updates for quick reference.
 3. **Progress Tracker:** Visual tools like calendars and graphs allow users to monitor their progress over time, motivating them to stay consistent.
 4. **Completion Feedback:** Users receive satisfying visual or animated feedback when marking a habit as complete, reinforcing positive behavior.
